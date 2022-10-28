@@ -14,7 +14,7 @@
 
 题库在`q_a.json`文件，如有兴趣自行查看
 
-成品下载链接：https://wwk.lanzouv.com/iLZe20eq6voh
+成品下载链接：https://wwk.lanzouv.com/iLZe20eq6voh （若报毒请无视，就这玩意也没必要害人对吧）
 
 咱也不知道这玩意为啥能有30多M，可能是pyinstaller打包的时候偷偷打包了一些用不到的库（不管了）
 
